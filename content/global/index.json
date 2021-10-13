@@ -30,7 +30,7 @@
     }
   },
   "theme": {
-    "color": "orange",
+    "color": "pink",
     "font": "nunito",
     "icon": "heroicon",
     "darkMode": "dark"
